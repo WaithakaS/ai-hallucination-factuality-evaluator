@@ -1,0 +1,16 @@
+example_id,question,reference_answer,model_answer,category
+FACT001,Who wrote Pride and Prejudice?,"Pride and Prejudice was written by Jane Austen.","Pride and Prejudice was written by Charlotte Bronte.",literature
+FACT002,What is the capital of France?,"The capital of France is Paris.","The capital of France is Paris.",geography
+FACT003,When did the first crewed Moon landing occur?,"The first crewed Moon landing occurred in 1969.","The first crewed Moon landing occurred in 1969.",history
+FACT004,What is the largest planet in the solar system?,"Jupiter is the largest planet in the solar system.","Saturn is the largest planet in the solar system.",science
+FACT005,What causes day and night on Earth?,"Earth's rotation on its axis causes day and night.","Day and night are caused by Earth rotating around the Sun.",science
+FACT006,What is 15 multiplied by 8?,"15 multiplied by 8 equals 120.","15 multiplied by 8 equals 120.",mathematics
+FACT007,Who painted the Mona Lisa?,"Leonardo da Vinci painted the Mona Lisa.","Leonardo da Vinci painted the Mona Lisa.",art
+FACT008,What gas do humans need for aerobic respiration?,"Humans need oxygen for aerobic respiration.","Humans need carbon dioxide for aerobic respiration.",biology
+FACT009,What is the boiling point of water at standard atmospheric pressure?,"Water boils at 100 degrees Celsius at standard atmospheric pressure.","Water boils at 100 degrees Celsius at standard atmospheric pressure.",science
+FACT010,What is the purpose of a control group?,"A control group provides a comparison point for evaluating an intervention or experimental condition.","A control group is the group that receives every experimental treatment.",research
+FACT011,What is inflation?,"Inflation is a sustained increase in the general price level of goods and services.","Inflation means that every individual product becomes more expensive at exactly the same rate.",economics
+FACT012,Who developed the theory of general relativity?,"Albert Einstein developed the theory of general relativity.","Isaac Newton developed the theory of general relativity.",science
+FACT013,What does CPU stand for?,"CPU stands for Central Processing Unit.","CPU stands for Central Processing Unit.",technology
+FACT014,What is the primary purpose of data validation?,"Data validation helps identify invalid, inconsistent, or incomplete data before it is used.","Data validation is mainly used to make datasets larger.",data_quality
+FACT015,What is photosynthesis?,"Photosynthesis is the process by which plants use light energy to convert carbon dioxide and water into chemical energy, releasing oxygen.","Photosynthesis is the process by which plants convert oxygen into sunlight.",biology

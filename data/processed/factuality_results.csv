@@ -1,0 +1,16 @@
+example_id,question,reference_answer,model_answer,category,similarity,lexical_overlap,contradiction_signal,support_score,label
+FACT001,Who wrote Pride and Prejudice?,Pride and Prejudice was written by Jane Austen.,Pride and Prejudice was written by Charlotte Bronte.,literature,0.8247,0.75,0.0,0.7911,supported
+FACT002,What is the capital of France?,The capital of France is Paris.,The capital of France is Paris.,geography,1.0,1.0,0.0,1.0,supported
+FACT003,When did the first crewed Moon landing occur?,The first crewed Moon landing occurred in 1969.,The first crewed Moon landing occurred in 1969.,history,1.0,1.0,0.0,1.0,supported
+FACT004,What is the largest planet in the solar system?,Jupiter is the largest planet in the solar system.,Saturn is the largest planet in the solar system.,science,0.9072,0.875,0.0,0.8927,supported
+FACT005,What causes day and night on Earth?,Earth's rotation on its axis causes day and night.,Day and night are caused by Earth rotating around the Sun.,science,0.2453,0.3636,0.0,0.2985,low_support
+FACT006,What is 15 multiplied by 8?,15 multiplied by 8 equals 120.,15 multiplied by 8 equals 120.,mathematics,1.0,1.0,0.0,1.0,supported
+FACT007,Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.,Leonardo da Vinci painted the Mona Lisa.,art,1.0,1.0,0.0,1.0,supported
+FACT008,What gas do humans need for aerobic respiration?,Humans need oxygen for aerobic respiration.,Humans need carbon dioxide for aerobic respiration.,biology,0.8478,0.7143,0.0,0.7877,supported
+FACT009,What is the boiling point of water at standard atmospheric pressure?,Water boils at 100 degrees Celsius at standard atmospheric pressure.,Water boils at 100 degrees Celsius at standard atmospheric pressure.,science,1.0,1.0,0.0,1.0,supported
+FACT010,What is the purpose of a control group?,A control group provides a comparison point for evaluating an intervention or experimental condition.,A control group is the group that receives every experimental treatment.,research,0.4912,0.4,0.0,0.4502,needs_review
+FACT011,What is inflation?,Inflation is a sustained increase in the general price level of goods and services.,Inflation means that every individual product becomes more expensive at exactly the same rate.,economics,0.3771,0.1429,0.0,0.2717,low_support
+FACT012,Who developed the theory of general relativity?,Albert Einstein developed the theory of general relativity.,Isaac Newton developed the theory of general relativity.,science,0.8319,0.75,0.0,0.795,supported
+FACT013,What does CPU stand for?,CPU stands for Central Processing Unit.,CPU stands for Central Processing Unit.,technology,1.0,1.0,0.0,1.0,supported
+FACT014,What is the primary purpose of data validation?,"Data validation helps identify invalid, inconsistent, or incomplete data before it is used.",Data validation is mainly used to make datasets larger.,data_quality,0.5352,0.4444,0.0,0.4944,needs_review
+FACT015,What is photosynthesis?,"Photosynthesis is the process by which plants use light energy to convert carbon dioxide and water into chemical energy, releasing oxygen.",Photosynthesis is the process by which plants convert oxygen into sunlight.,biology,0.619,0.9091,0.0,0.7496,needs_review
